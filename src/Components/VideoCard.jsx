@@ -12,8 +12,8 @@ const VideoCard = (props) => {
         src={video}
         className="video"
         title={video}
-        frameBorder="0"
-        allowFullScreen
+{/*         frameBorder="0"
+        allowFullScreen */}
       ></iframe>
         
       </div>
