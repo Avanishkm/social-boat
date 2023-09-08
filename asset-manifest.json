@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/social-boat/static/css/main.adc4db2b.css",
-    "main.js": "/social-boat/static/js/main.00d4afe0.js",
-    "static/js/787.f2fd9a87.chunk.js": "/social-boat/static/js/787.f2fd9a87.chunk.js",
-    "index.html": "/social-boat/index.html",
-    "main.adc4db2b.css.map": "/social-boat/static/css/main.adc4db2b.css.map",
-    "main.00d4afe0.js.map": "/social-boat/static/js/main.00d4afe0.js.map",
-    "787.f2fd9a87.chunk.js.map": "/social-boat/static/js/787.f2fd9a87.chunk.js.map"
+    "main.css": "/social-boats/static/css/main.adc4db2b.css",
+    "main.js": "/social-boats/static/js/main.3019f80c.js",
+    "static/js/787.e94094af.chunk.js": "/social-boats/static/js/787.e94094af.chunk.js",
+    "index.html": "/social-boats/index.html",
+    "main.adc4db2b.css.map": "/social-boats/static/css/main.adc4db2b.css.map",
+    "main.3019f80c.js.map": "/social-boats/static/js/main.3019f80c.js.map",
+    "787.e94094af.chunk.js.map": "/social-boats/static/js/787.e94094af.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.adc4db2b.css",
-    "static/js/main.00d4afe0.js"
+    "static/js/main.3019f80c.js"
   ]
 }
